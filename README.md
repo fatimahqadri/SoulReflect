@@ -1,0 +1,2 @@
+# SoulReflect
+AI Journaling Tool
